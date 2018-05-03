@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://khoj.prabhakarbind.com/index.html</loc>
-    <lastmod>2018-05-03</lastmod>
+    <lastmod>2018-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,31 +14,34 @@
   </url>
   <url>
     <loc>http://khoj.prabhakarbind.com/schemes.html</loc>
-    <lastmod>2018-05-02</lastmod>
+    <lastmod>2018-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://khoj.prabhakarbind.com/bookmarks.html</loc>
-    <lastmod>2018-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/khoj_logo-blue_outlines.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://khoj.prabhakarbind.com/scheme-1.html</loc>
-    <lastmod>2018-05-02</lastmod>
+    <lastmod>2018-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/khoj_logo-blue_outlines.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://khoj.prabhakarbind.com/application.html</loc>
-    <lastmod>2018-05-02</lastmod>
+    <lastmod>2018-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/khoj_logo-blue_outlines.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://khoj.prabhakarbind.com/registration1.html</loc>
-    <lastmod>2018-05-03</lastmod>
+    <lastmod>2018-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -47,11 +50,20 @@
   </url>
   <url>
     <loc>http://khoj.prabhakarbind.com/registration2.html</loc>
-    <lastmod>2018-05-03</lastmod>
+    <lastmod>2018-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://khoj.prabhakarbind.com/images/khoj_logo_outlines.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://khoj.prabhakarbind.com/selected.html</loc>
+    <lastmod>2018-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/khoj_logo-blue_outlines.svg</image:loc>
     </image:image>
   </url>
 </urlset>
