@@ -1,0 +1,120 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="khoj.prabhakarbind.com" resolutions="1x" timestamp="1525344389673">
+  <folder name="fonts">
+    <file name="montserrat-light.woff" crc="3921076213"/>
+    <file name="montserrat-light.eot" crc="4180766604"/>
+    <file name="montserrat-light.svg" crc="254048411"/>
+    <file name="montserrat-medium.woff" crc="469551480"/>
+    <file name="montserrat-medium.eot" crc="4203829466"/>
+    <file name="montserrat-medium.svg" crc="4280194626"/>
+    <file name="montserrat-regular.woff" crc="3854886828"/>
+    <file name="montserrat-regular.eot" crc="4033934686"/>
+    <file name="montserrat-regular.svg" crc="310373776"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="216517693" ref="bookmarks:application:schemes:scheme-1"/>
+    <file name="index.css" crc="4077096719" ref="index"/>
+    <file name="master_b-master.css" crc="3882688086" ref="registration1:registration2:index"/>
+    <file name="registration1.css" crc="138813795" ref="registration1"/>
+    <file name="iefonts_registration1.css" crc="124113364" ref="registration1"/>
+    <file name="bookmarks.css" crc="3856157705" ref="bookmarks"/>
+    <file name="application.css" crc="3856157705" ref="application"/>
+    <file name="registration2.css" crc="517521603" ref="registration2"/>
+    <file name="iefonts_registration2.css" crc="4074466804" ref="registration2"/>
+    <file name="iefonts_index.css" crc="381731650" ref="index"/>
+    <file name="schemes.css" crc="4134881154" ref="schemes"/>
+    <file name="iefonts_schemes.css" crc="130779445" ref="schemes"/>
+    <file name="scheme-1.css" crc="456057026" ref="scheme-1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:schemes:bookmarks:scheme-1:application:registration1:registration2"/>
+    <file name="museutils.js" crc="340535759" ref="index:schemes:bookmarks:scheme-1:application:registration1:registration2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:schemes:bookmarks:scheme-1:application:registration1:registration2"/>
+    <file name="museconfig.js" crc="310584261" ref="index:schemes:bookmarks:scheme-1:application:registration1:registration2"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:schemes:bookmarks:scheme-1:application:registration1:registration2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="schemes"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:schemes:bookmarks:scheme-1:application:registration1:registration2"/>
+    <file name="webpro.js" crc="4059564322" ref="schemes:registration1:registration2"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="schemes"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:schemes:bookmarks:scheme-1:application:registration1:registration2"/>
+    <file name="require.js" crc="7928878" ref="index:schemes:bookmarks:scheme-1:application:registration1:registration2"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="schemes:registration2"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="schemes:registration2"/>
+    <file name="touchswipe.js" crc="4075097462" ref="schemes:registration2"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="schemes"/>
+    <file name="form_check.php" crc="4020933626" ref="registration1"/>
+    <file name="form_throttle.php" crc="4259590256" ref="registration1"/>
+    <file name="form_process.php" crc="37464564" ref="registration1"/>
+    <file name="form-u10597.php" crc="3898302143" ref="registration1"/>
+    <file name="form-u11086.php" crc="351910251" ref="registration2"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:schemes"/>
+    <file name="khoj_logo_outlines.svg" crc="4001768612" seo="true" ref="index:registration1:registration2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="registration2" alt=""/>
+      <caption webpage="registration1" alt=""/>
+    </file>
+    <file name="khoj_logo_outlines_poster_.png" crc="4198487439" ref="index"/>
+    <file name="mouse-scroll-thin--noun_486805_cc.svg" crc="195424425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mouse scroll thin- noun_486805_cc_poster_.png" crc="3994994141" ref="index"/>
+    <file name="ellipticalvenerateddutchsmoushond-max-1mb.gif" crc="4065525361" ref="schemes">
+      <caption webpage="schemes" alt=""/>
+    </file>
+    <file name="button bookmark-3.jpg" crc="4178714469" ref="schemes">
+      <caption webpage="schemes" alt=""/>
+      <caption webpage="schemes" alt=""/>
+      <caption webpage="schemes" alt=""/>
+      <caption webpage="schemes" alt=""/>
+      <caption webpage="schemes" alt=""/>
+    </file>
+    <file name="logo.png" crc="427068583" ref="schemes">
+      <caption webpage="schemes" alt=""/>
+    </file>
+    <file name="artisan.jpg" crc="480778386" ref="registration2">
+      <caption webpage="registration2" alt=""/>
+    </file>
+    <file name="ngo.jpg" crc="4157701474" ref="registration2">
+      <caption webpage="registration2" alt=""/>
+    </file>
+    <file name="social_worker.jpg" crc="136761136" ref="registration2">
+      <caption webpage="registration2" alt=""/>
+    </file>
+    <file name="design_institution.jpg" crc="4213095898" ref="registration2">
+      <caption webpage="registration2" alt=""/>
+    </file>
+    <file name="master_craftsman.jpg" crc="400755569" ref="registration2">
+      <caption webpage="registration2" alt=""/>
+    </file>
+    <file name="trust.jpg" crc="224077461" ref="registration2">
+      <caption webpage="registration2" alt=""/>
+    </file>
+    <file name="entreprenuer.jpg" crc="367171363" ref="registration2">
+      <caption webpage="registration2" alt=""/>
+    </file>
+    <file name="government_agency.jpg" crc="3869705406" ref="registration2">
+      <caption webpage="registration2" alt=""/>
+    </file>
+    <file name="designer.jpg" crc="417869365" ref="registration2">
+      <caption webpage="registration2" alt=""/>
+    </file>
+    <file name="exporter.jpg" crc="4138704800" ref="registration2">
+      <caption webpage="registration2" alt=""/>
+    </file>
+    <file name="co-operative societies.jpg" crc="505401228" ref="registration2">
+      <caption webpage="registration2" alt=""/>
+    </file>
+    <file name="bank.jpg" crc="4289729145" ref="registration2">
+      <caption webpage="registration2" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4284192230" seo="true" mt="1525342367075" redirect="true"/>
+  <file name="schemes.html" crc="11560259" seo="true" mt="1525273836221" redirect="true"/>
+  <file name="bookmarks.html" crc="69581879" seo="true" mt="1525254170844" redirect="true"/>
+  <file name="scheme-1.html" crc="155725886" seo="true" mt="1525254170844" redirect="true"/>
+  <file name="application.html" crc="445395978" seo="true" mt="1525254170844" redirect="true"/>
+  <file name="registration1.html" crc="3865602372" seo="true" mt="1525342367075" redirect="true"/>
+  <file name="registration2.html" crc="3766737868" seo="true" mt="1525342367075" redirect="true"/>
+</manifest>
