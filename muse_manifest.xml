@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="khoj.prabhakarbind.com" resolutions="1x" timestamp="1525889958076">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="khoj.prabhakarbind.com" resolutions="1x" timestamp="1525891092788">
   <folder name="fonts">
     <file name="montserrat-light.woff" crc="3921076213"/>
     <file name="montserrat-light.eot" crc="4180766604"/>
@@ -14,12 +14,12 @@
     <file name="site_global.css" crc="168066407"/>
     <file name="master_a-master.css" crc="3978327615" ref="application:schemes:selected:scheme1.1:scheme2.1"/>
     <file name="index.css" crc="45885535" ref="index"/>
-    <file name="master_b-master.css" crc="313645194" ref="registration1:registration2:index"/>
-    <file name="registration1.css" crc="329706878" ref="registration1"/>
-    <file name="iefonts_registration1.css" crc="3802280890" ref="registration1"/>
+    <file name="master_b-master.css" crc="276310726" ref="index"/>
+    <file name="registration1.css" crc="3942616133" ref="registration1"/>
+    <file name="iefonts_registration1.css" crc="3835704881" ref="registration1"/>
     <file name="application.css" crc="141796715" ref="application"/>
-    <file name="registration2.css" crc="4076117505" ref="registration2"/>
-    <file name="iefonts_registration2.css" crc="4041216234" ref="registration2"/>
+    <file name="registration2.css" crc="3835866999" ref="registration2"/>
+    <file name="iefonts_registration2.css" crc="4064773326" ref="registration2"/>
     <file name="iefonts_index.css" crc="3790918398" ref="index"/>
     <file name="schemes.css" crc="125229397" ref="schemes"/>
     <file name="iefonts_schemes.css" crc="4163324042" ref="schemes"/>
@@ -30,6 +30,7 @@
     <file name="iefonts_scheme1_1.css" crc="4104475691" ref="scheme1.1"/>
     <file name="scheme2_1.css" crc="3835157473" ref="scheme2.1"/>
     <file name="iefonts_scheme2_1.css" crc="4016367098" ref="scheme2.1"/>
+    <file name="master_c-master.css" crc="417449563" ref="registration1:registration2"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:schemes:application:registration1:registration2:selected:scheme2.1:scheme1.1"/>
@@ -46,7 +47,7 @@
     <file name="musewpslideshow.js" crc="3862962738" ref="schemes:registration2:scheme2.1:scheme1.1"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="schemes:registration2:scheme2.1:scheme1.1"/>
     <file name="touchswipe.js" crc="4075097462" ref="schemes:registration2:scheme2.1:scheme1.1"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="schemes"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="schemes:index"/>
     <file name="form_check.php" crc="4020933626" ref="registration1"/>
     <file name="form_throttle.php" crc="4259590256" ref="registration1"/>
     <file name="form_process.php" crc="37464564" ref="registration1"/>
@@ -194,23 +195,23 @@
     </file>
     <file name="funding -noun_471856_cc_poster_.png" crc="268698596" ref="schemes"/>
     <file name="mobilization-02-noun_339153_cc.svg" crc="4140812202" seo="true" ref="schemes:scheme1.1">
-      <caption webpage="scheme1.1" alt=""/>
       <caption webpage="schemes" alt=""/>
+      <caption webpage="scheme1.1" alt=""/>
     </file>
     <file name="mobilization-02-noun_339153_cc_poster_.png" crc="465953291" ref="schemes"/>
     <file name="empower-01-noun_52729_cc.svg" crc="3867090443" seo="true" ref="schemes:scheme1.1">
-      <caption webpage="scheme1.1" alt=""/>
       <caption webpage="schemes" alt=""/>
+      <caption webpage="scheme1.1" alt=""/>
     </file>
     <file name="empower-01-noun_52729_cc_poster_.png" crc="4209173997" ref="schemes"/>
     <file name="artisan-02-noun_200330_cc.svg" crc="4282333352" seo="true" ref="schemes:scheme1.1">
-      <caption webpage="scheme1.1" alt=""/>
       <caption webpage="schemes" alt=""/>
+      <caption webpage="scheme1.1" alt=""/>
     </file>
     <file name="artisan-02-noun_200330_cc_poster_.png" crc="181200836" ref="schemes"/>
     <file name="company--noun_1610235_cc.svg" crc="4261069288" seo="true" ref="schemes:scheme1.1">
-      <caption webpage="scheme1.1" alt=""/>
       <caption webpage="schemes" alt=""/>
+      <caption webpage="scheme1.1" alt=""/>
     </file>
     <file name="company- noun_1610235_cc_poster_.png" crc="272199834" ref="schemes"/>
     <file name="workshop-noun_342946_cc.svg" crc="4075997792" seo="true" ref="selected:scheme2.1:schemes">
@@ -369,12 +370,12 @@
     </file>
     <file name="design-01-noun_249979_cc_poster_.png" crc="69779310" ref="schemes"/>
   </folder>
-  <file name="index.html" crc="329559216" seo="true" mt="1525889825568" redirect="true"/>
-  <file name="schemes.html" crc="4174324301" seo="true" mt="1525707025577" redirect="true"/>
-  <file name="application.html" crc="4065494365" seo="true" mt="1525686521534" redirect="true"/>
-  <file name="registration1.html" crc="208730731" seo="true" mt="1525889825568" redirect="true"/>
-  <file name="registration2.html" crc="4251704170" seo="true" mt="1525889825568" redirect="true"/>
-  <file name="selected.html" crc="3921485878" seo="true" mt="1525707028830" redirect="true"/>
-  <file name="scheme2.1.html" crc="37678910" seo="true" mt="1525707025580" redirect="true"/>
-  <file name="scheme1.1.html" crc="496294013" seo="true" mt="1525705767680" redirect="true"/>
+  <file name="index.html" crc="213841642" seo="true" mt="1525890828790" redirect="true"/>
+  <file name="schemes.html" crc="261463928" seo="true" mt="1525890663627" redirect="true"/>
+  <file name="application.html" crc="460933570" seo="true" mt="1525890663627" redirect="true"/>
+  <file name="registration1.html" crc="211677620" seo="true" mt="1525890498531" redirect="true"/>
+  <file name="registration2.html" crc="3769655487" seo="true" mt="1525890498531" redirect="true"/>
+  <file name="selected.html" crc="4257608642" seo="true" mt="1525890663627" redirect="true"/>
+  <file name="scheme2.1.html" crc="290799329" seo="true" mt="1525890663627" redirect="true"/>
+  <file name="scheme1.1.html" crc="4174719285" seo="true" mt="1525890663627" redirect="true"/>
 </manifest>
