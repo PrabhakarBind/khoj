@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://khoj.prabhakarbind.com/index.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,25 +14,76 @@
   </url>
   <url>
     <loc>http://khoj.prabhakarbind.com/schemes.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://khoj.prabhakarbind.com/images/khoj_logo-blue_outlines.svg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://khoj.prabhakarbind.com/scheme-1.html</loc>
-    <lastmod>2018-05-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://khoj.prabhakarbind.com/images/khoj_logo-blue_outlines.svg</image:loc>
+      <image:loc>http://khoj.prabhakarbind.com/images/co-operative-noun_494181_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/design-institution-01-noun_957480_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/government--noun_41077_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/calender--noun_1162974_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/participant--noun_707173_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/funding--noun_471856_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/mobilization-02-noun_339153_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/empower-01-noun_52729_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/artisan-02-noun_200330_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/company--noun_1610235_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/workshop-noun_342946_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/technology-noun_943731_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/designer-02-noun_550742_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/survey-02-noun_1696120_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/wood-02-noun_1554376_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/documentation--noun_1033143_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/stipend-noun_1628057_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/phone-bill-01-noun_509356_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/finance-noun_418304_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/design-01-noun_249979_cc.svg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://khoj.prabhakarbind.com/application.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -41,7 +92,7 @@
   </url>
   <url>
     <loc>http://khoj.prabhakarbind.com/registration1.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -50,7 +101,7 @@
   </url>
   <url>
     <loc>http://khoj.prabhakarbind.com/registration2.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -59,11 +110,191 @@
   </url>
   <url>
     <loc>http://khoj.prabhakarbind.com/selected.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://khoj.prabhakarbind.com/images/khoj_logo-blue_outlines.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/co-operative-noun_494181_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/design-institution-01-noun_957480_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/government--noun_41077_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/calender--noun_1162974_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/participant--noun_707173_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/funding--noun_471856_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/workshop-noun_342946_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/technology-noun_943731_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/designer-02-noun_550742_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/survey-02-noun_1696120_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/wood-02-noun_1554376_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/documentation--noun_1033143_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/stipend-noun_1628057_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/phone-bill-01-noun_509356_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/finance-noun_418304_cc.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://khoj.prabhakarbind.com/scheme2.1.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/khoj_logo-blue_outlines.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/co-operative-noun_494181_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/design-institution-01-noun_957480_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/government--noun_41077_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/calender--noun_1162974_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/participant--noun_707173_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/funding--noun_471856_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/workshop-noun_342946_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/technology-noun_943731_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/designer-02-noun_550742_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/survey-02-noun_1696120_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/wood-02-noun_1554376_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/documentation--noun_1033143_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/stipend-noun_1628057_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/phone-bill-01-noun_509356_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/finance-noun_418304_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/design-01-noun_249979_cc.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://khoj.prabhakarbind.com/scheme1.1.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/khoj_logo-blue_outlines.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/co-operative-noun_494181_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/design-institution-01-noun_957480_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/government--noun_41077_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/calender--noun_1162974_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/participant--noun_707173_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/funding--noun_471856_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/mobilization-02-noun_339153_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/empower-01-noun_52729_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/artisan-02-noun_200330_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/company--noun_1610235_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/mobilization-01-noun_1644967_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/survey-01-noun_580745_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/human-resource--noun_1333665_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/business--noun_1338089_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/awareness--noun_1176474_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/bank-counter-noun_1073960_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/id-card-noun_810871_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/excel-sheet-noun_762419_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/insurance--noun_1709703_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/manager--noun_1050464_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/factory--infrastructure--noun_967238_cc.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/pradhanmantri-jan-dhan-yojna.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://khoj.prabhakarbind.com/images/information-noun_225912_cc.svg</image:loc>
     </image:image>
   </url>
 </urlset>
