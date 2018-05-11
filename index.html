@@ -18,8 +18,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=168066407"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=276310726"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=45885535" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=203417859"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=225852371" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=3790918398"/>
@@ -89,33 +89,25 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <a class="anchor_item grpelem" id="read_through_schemes."></a>
      <a class="nonblock nontext anim_swing clip_frame grpelem" id="u20006" href="index.html#read_through_schemes."><!-- svg --><img class="svg" id="u20002" src="images/mouse-scroll-thin--noun_486805_cc.svg?crc=3893714875" width="35" height="64" alt="" data-mu-svgfallback="images/mouse%20scroll%20thin-%20noun_486805_cc_poster_.png?crc=110511749"/></a>
     </div>
-    <div class="clearfix colelem" id="pu9454"><!-- group -->
-     <div class="browser_width grpelem" id="u9454-bw">
-      <div id="u9454"><!-- column -->
-       <div class="clearfix" id="u9454_align_to_page">
-        <a class="nonblock nontext Button transition rounded-corners clearfix colelem" id="buttonu9468" href="schemes.html"><!-- container box --><div class="clearfix grpelem" id="u9469-4"><!-- content --><p>Read through the synopsis of all current schemes !</p></div></a>
-        <div class="clearfix colelem" id="u9477-7"><!-- content -->
-         <p>Well, we understand that it can be tough to go through all the schemes and understand them, especially if you are new to this.</p>
-         <p>&nbsp;</p>
-         <p>So, leave the hard work to us - we will recommend you the ones best suited to your objectives!</p>
-        </div>
-        <div class="clearfix colelem" id="u9480-4"><!-- content -->
-         <p>Let's start by getting to know you better...</p>
-        </div>
-        <a class="nonblock nontext Button transition rounded-corners clearfix colelem" id="buttonu9485" href="registration1.html"><!-- container box --><div class="clearfix grpelem" id="u9486-4"><!-- content --><p>Register now!</p></div></a>
+    <div class="browser_width colelem" id="u9454-bw">
+     <div id="u9454"><!-- column -->
+      <div class="clearfix" id="u9454_align_to_page">
+       <a class="nonblock nontext Button transition rounded-corners clearfix colelem" id="buttonu9468" href="schemes.html"><!-- container box --><div class="clearfix grpelem" id="u9469-4"><!-- content --><p>Read through the synopsis of all current schemes !</p></div></a>
+       <div class="clearfix colelem" id="u9477-7"><!-- content -->
+        <p>Well, we understand that it can be tough to go through all the schemes and understand them, especially if you are new to this.</p>
+        <p>&nbsp;</p>
+        <p>So, leave the hard work to us - we will recommend you the ones best suited to your objectives!</p>
        </div>
-      </div>
-     </div>
-     <div class="browser_width grpelem" id="u12179-bw">
-      <div id="u12179"><!-- column -->
-       <div class="clearfix" id="u12179_align_to_page">
-        <div class="clearfix colelem" id="u12167-4"><!-- content -->
-         <p>Already have an account?</p>
-        </div>
-        <div class="Button transition rounded-corners clearfix colelem" id="buttonu12170"><!-- container box -->
-         <div class="clearfix grpelem" id="u12171-4"><!-- content -->
-          <p>Sign In!</p>
-         </div>
+       <div class="clearfix colelem" id="u9480-4"><!-- content -->
+        <p>Let's start by getting to know you better...</p>
+       </div>
+       <a class="nonblock nontext Button transition rounded-corners clearfix colelem" id="buttonu9485" href="registration1.html"><!-- container box --><div class="clearfix grpelem" id="u9486-4"><!-- content --><p>Register now!</p></div></a>
+       <div class="clearfix colelem" id="u12167-4"><!-- content -->
+        <p>Already have an account?</p>
+       </div>
+       <div class="Button transition rounded-corners clearfix colelem" id="buttonu12170"><!-- container box -->
+        <div class="clearfix grpelem" id="u12171-4"><!-- content -->
+         <p>Sign In!</p>
         </div>
        </div>
       </div>
@@ -161,7 +153,7 @@ Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized');
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u9519').registerOpacityScrollEffect([{"in":[-Infinity,600],"opacity":20,"fade":50},{"in":[600,600],"opacity":100},{"in":[600,Infinity],"opacity":100,"fade":50}]);/* scroll effect */
+$('#u9519').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,600],"opacity":20},{"in":[600,600],"opacity":100},{"fade":50,"in":[600,Infinity],"opacity":100}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
